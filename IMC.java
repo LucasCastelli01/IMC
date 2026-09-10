@@ -54,8 +54,7 @@ void main(){
     }
 
 
-    
-    
+    System.out.printf("Seu nome é: %s, seu gênero é: %c, seu peso é: %.2f, sua altura é: %.2f e seu IMC é de: %.2f e sua classificação é: %s", nome, genero, peso, altura, imc, classificacao);
 
 
 }
